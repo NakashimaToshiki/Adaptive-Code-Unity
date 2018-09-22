@@ -13,6 +13,6 @@ public class StatusPresenter : MonoBehaviour
 
     void Awake()
     {
-        model.healthRP.Subscribe(value => { healthView.SetRate(model.healthMax, value); });
+        model.healthRP.Subscribe(value => { healthView.SetParameter(model.healthMax, value); });
     }
 }
