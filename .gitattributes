@@ -9,7 +9,7 @@
  
 *.mat merge=unityyamlmerge
 *.anim merge=unityyamlmerge
-#*.unity merge=unityyamlmerge
+*.unity merge=unityyamlmerge
 *.prefab merge=unityyamlmerge
 *.physicsMaterial2D merge=unityyamlmerge
 *.physicsMaterial merge=unityyamlmerge
