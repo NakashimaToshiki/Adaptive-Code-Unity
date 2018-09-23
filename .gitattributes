@@ -21,12 +21,12 @@
 ## git-lfs ##
  
 #Image
-*.jpg filter=lfs diff=lfs merge=lfs
-*.jpeg filter=lfs diff=lfs merge=lfs
-#*.png filter=lfs diff=lfs merge=lfs
-*.gif filter=lfs diff=lfs merge=lfs
-*.psd filter=lfs diff=lfs merge=lfs
-*.ai filter=lfs diff=lfs merge=lfs
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.psd binary
+*.ai binary
  
 #Audio
 *.mp3 filter=lfs diff=lfs merge=lfs
