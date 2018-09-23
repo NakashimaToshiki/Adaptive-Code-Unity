@@ -23,7 +23,7 @@
 #Image
 *.jpg filter=lfs diff=lfs merge=lfs
 *.jpeg filter=lfs diff=lfs merge=lfs
-*.png filter=lfs diff=lfs merge=lfs
+#*.png filter=lfs diff=lfs merge=lfs
 *.gif filter=lfs diff=lfs merge=lfs
 *.psd filter=lfs diff=lfs merge=lfs
 *.ai filter=lfs diff=lfs merge=lfs
