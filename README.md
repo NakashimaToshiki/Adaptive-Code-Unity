@@ -6,6 +6,15 @@
 
 [Qiita](https://qiita.com/nebusokuhibari)
 
+Gitの使い方に慣れていないので、
+Qiitaのコメントやメールにて連絡くれると助かります。
+
+nebusokuhibari@gmail.com
+
+## 開発環境
+
+- Unity 2018.2.8f1
+
 ## フレームワーク
 
 以下のフレームワークを使っています。
